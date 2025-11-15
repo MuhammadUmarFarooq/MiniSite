@@ -74,11 +74,10 @@ body {
     border: 1px solid #ddd;
 }
 .form {
-    max-width: 400px;
+    max-width: 45    0px;
     margin: auto;
     text-align: left;
 }
-
 .form input,
 .form textarea {
     width: 100%;
@@ -95,4 +94,3 @@ body {
     padding: 15px;
     margin-top: 30px;
 }
-
